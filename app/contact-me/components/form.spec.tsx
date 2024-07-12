@@ -58,7 +58,7 @@ describe("Contatct Form component", () => {
 
 		fireEvent.change(screen.getByLabelText("Email"), {
 			target: {
-				value: "time2code@gmail.com",
+				value: "lorem@ipsum.com",
 			},
 		});
 

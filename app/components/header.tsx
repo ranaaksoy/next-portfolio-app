@@ -37,7 +37,7 @@ export const Header = ({ name, pages }: HeaderProps) => {
 				height={400}
 				width={2000}
 				className='w-full h-48 object-cover object-top absolute mb-6'
-				src='/images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg'
+				src='/images/1.png'
 				alt={`Image of ${name}`}
 				aria-label={`Image of ${name}`}
 			/>

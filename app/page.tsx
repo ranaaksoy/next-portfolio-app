@@ -11,9 +11,9 @@ const AboutMePage = () => {
 						priority={false}
 						width={640}
 						height={960}
-						aria-label={"image of jurica-koletic-7YVZYZeITc8-unsplash"}
-						alt={"jurica-koletic-7YVZYZeITc8-unsplash"}
-						src={"/images/jurica-koletic-7YVZYZeITc8-unsplash.jpg"}
+						aria-label={"picture"}
+						alt={"picture"}
+						src={"/images/1.png"}
 						className='profileImage'
 					/>
 				</div>
@@ -34,9 +34,9 @@ const AboutMePage = () => {
 						priority={false}
 						width={500}
 						height={250}
-						aria-label={"image of kaitlyn-baker-vZJdYl5JVXY-unsplash"}
-						alt={"kaitlyn-baker-vZJdYl5JVXY-unsplash"}
-						src={"/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"}
+						aria-label={"picture"}
+						alt={"picture"}
+						src={"/images/1.png"}
 						className='h-250 object-cover w-500'
 					/>
 				</div>
